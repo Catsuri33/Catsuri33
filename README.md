@@ -3,7 +3,7 @@
 
 - I'm a French student who learn mathematics and programming.
 - I'm also a gamer.
-- And I'm work on personnal projetcs.
+- And I work on personnal projetcs.
 
 ## Languages and Tools:
 
@@ -19,7 +19,7 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://electronjs.org/" target="_blank"> <img src="https://fr.wikipedia.org/wiki/Electron_(framework)#/media/Fichier:Electron_Software_Framework_Logo.svg"/> </a> 
+    <a href="https://electronjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg"/ width="40" height="40"> </a> 
 </p>
 
 <br/>
@@ -50,9 +50,9 @@
 ## My socials accounts:
 <p align="left">
 
-<a href = "https://twitter.com/Catsuri33"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/catsuri33/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://discord.com/invite/B6dNBGd"><img src="https://img.icons8.com/color/48/000000/discord--v2.png"/></a>
+<a href = "https://twitter.com/Catsuri33" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/catsuri33/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://discord.com/invite/B6dNBGd" target="_blank"><img src="https://img.icons8.com/color/48/000000/discord--v2.png"/></a>
 
 </p>
 
