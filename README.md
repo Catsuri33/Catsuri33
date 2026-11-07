@@ -78,7 +78,10 @@
 
 <br>
 
-### Experience
+<details>
+<summary><b>Experience</b></summary>
+
+<br>
 
 **DevOps Engineer Apprentice** · [Tiria](https://www.tiria.fr) · Sep. 2025 - Present
 
@@ -90,9 +93,14 @@
 
 - Built web applications with an in-house framework written in PHP.
 
+</details>
+
 <br>
 
-### Education
+<details>
+<summary><b>Education</b></summary>
+
+<br>
 
 **3rd and 4th years of a 5-year Cloud DevOps Engineering Degree** · Polytech Montpellier · Oct. 2025 - Present
 
@@ -102,6 +110,8 @@
 **3-Year University Degree in Computer Science** · IUT of Bordeaux · Sep. 2022 - Jul. 2025
 
 - Apprenticeship-based program specialized in software development.
+
+</details>
 
 <br>
 
@@ -114,17 +124,27 @@
 
 <br>
 
-### Languages
+<details>
+<summary><b>Languages</b></summary>
+
+<br>
 
 - **French:** native
 - **English:** advanced
 - **Spanish:** basic
 
+</details>
+
 <br>
 
-### Hobbies
+<details>
+<summary><b>Hobbies</b></summary>
+
+<br>
 
 - **Numismatics:** a collection of 216 coins from many countries, mostly euro coins.
 - **Genealogy:** built my family tree of 90 people, going back to 1865.
 - **Music & vinyl records:** especially Linkin Park.
 - **Nature:** traveling, exploring new places and hiking in forests.
+
+</details>
