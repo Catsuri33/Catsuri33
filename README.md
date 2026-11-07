@@ -54,6 +54,7 @@
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![GrapheneOS](https://img.shields.io/badge/GrapheneOS-0053A3?style=flat-square&logo=grapheneos&logoColor=white)
 
 <br>
 
